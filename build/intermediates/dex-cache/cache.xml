@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="G:\AndroidApp\ZhiHu\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="G:\AndroidApp\ZhiHu\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_829d0faf6f283843b98a9c65b0795846243266d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidApp\ZhiHu\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="6f1c0f30edd67f7b9259cbc15e9898308774fd59">
+        <dex dex="G:\AndroidApp\ZhiHu\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d6947a15b2e53d1f65af8ef90a67918cdf52dc99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yandong\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="G:\AndroidApp\ZhiHu\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.8.0_c84ad8698f2dc7c3e1fba35f96630da6a9485880\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidApp\ZhiHu\app\libs\universal-image-loader-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="G:\AndroidApp\ZhiHu\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.5_1c0a1e3e73549a7e8d50c2e6d72acb0539b3cc1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidApp\ZhiHu\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="G:\AndroidApp\ZhiHu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.1_a792508df76ebd9cf47a0cf65d1a62524566c900\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidApp\ZhiHu\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="G:\AndroidApp\ZhiHu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.0_b61dff5ae2f874c6a839da2ae62e5747adab58af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidApp\ZhiHu\app\libs\android-async-http-1.4.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="cd78109020f9ec803ef4e652c17ee4615b03e20a">
+        <dex dex="G:\AndroidApp\ZhiHu\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-async-http-1.4.7_5e486b53ad997e30fb911af4a0cb28336c9f81e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidApp\ZhiHu\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="G:\AndroidApp\ZhiHu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-22.2.0_86299e8b964b6d8c19cb62d1e3528e159d547521\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidApp\ZhiHu\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="G:\AndroidApp\ZhiHu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.1_0f0447cde134ebaa55d4c63bfbbbf08806af8b80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SDK\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="G:\AndroidApp\ZhiHu\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_cc0798c3e0b0d03c9a1b7b6599727248a7e1547a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidApp\ZhiHu\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="05289059b9aeea21d90f88c90b1e609e282a9be8">
+        <dex dex="G:\AndroidApp\ZhiHu\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6bfa3c1aa1a50d954d046d0a04be5d612c4e97e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidApp\ZhiHu\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="G:\AndroidApp\ZhiHu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_1901cd52a4903f32504e04b84d32b7eb75856a4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AndroidApp\ZhiHu\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="G:\AndroidApp\ZhiHu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_aa7ddf7a2646cb57b75059f0b18d046125ca135f\classes.dex" />
+    </item>
+
+</items>
