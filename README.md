@@ -5,11 +5,11 @@
 ###[gif动图展示](http://img1.ph.126.net/F64l-oRDqzE7ZE5eAN_-4g==/6632181570979622008.gif)
 ![展示图](http://img2.ph.126.net/k557Odk6FvOzJ_JCyC4XCA==/6631927583793599348.jpg)
 
+![展示图](http://img0.ph.126.net/OBy4FR5XD0uV4YvyOlJreA==/6631871508700587234.jpg)
+
 
 ![展示图](http://img1.ph.126.net/dEIKGwIuT7JCsD-ELdLJVQ==/6631897896979653886.jpg)
 
-
-![展示图](http://img0.ph.126.net/OBy4FR5XD0uV4YvyOlJreA==/6631871508700587234.jpg)
 
 ###已完成功能
 * 启动动画与启动图片的获取
