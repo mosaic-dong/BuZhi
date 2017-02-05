@@ -2,6 +2,7 @@
 ###仿知乎日报APP
 ###[APK下载](http://download.csdn.net/detail/yandongyi123/9746943)
 ####界面展示
+###[gif动图展示](http://img1.ph.126.net/F64l-oRDqzE7ZE5eAN_-4g==/6632181570979622008.gif)
 ![展示图](http://img2.ph.126.net/k557Odk6FvOzJ_JCyC4XCA==/6631927583793599348.jpg)
 
 
@@ -32,4 +33,4 @@
 
 ####[感谢大神krelve的博客指导](http://krelve.com/)
 
-###[gif动图展示](http://img1.ph.126.net/F64l-oRDqzE7ZE5eAN_-4g==/6632181570979622008.gif)
+
